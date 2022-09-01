@@ -1,0 +1,4 @@
+functions not working
+-Generate report button
+-All cards
+-All charts

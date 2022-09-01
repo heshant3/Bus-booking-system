@@ -1,0 +1,4 @@
+functions not working
+-all search button in every pages
+-view map button in route page
+

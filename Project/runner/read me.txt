@@ -1,0 +1,4 @@
+functions not working
+-available seat button
+-total amount card
+
